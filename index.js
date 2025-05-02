@@ -10,8 +10,12 @@ const myAge = () => {
     console.log("My age is " + age + " years old.");
 }
 
-const myName = () => {
+const PrintMyName = () => {
     console.log("My name is " + name + ".");
 }
 
 const dob = 31/5/2003;
+
+const myDob = () => {
+    console.log("My date of birth is " + dob + ".");
+}
