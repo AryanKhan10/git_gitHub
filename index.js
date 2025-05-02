@@ -15,3 +15,5 @@ const PrintMyName = () => {
 }
 
 const dob = 31/5/2003;
+
+const fifth = 13;
