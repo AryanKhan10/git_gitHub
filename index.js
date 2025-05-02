@@ -13,3 +13,5 @@ const myAge = () => {
 const myName = () => {
     console.log("My name is " + name + ".");
 }
+
+const dob = 31/5/2003;
