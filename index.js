@@ -15,7 +15,3 @@ const PrintMyName = () => {
 }
 
 const dob = 31/5/2003;
-
-const myDob = () => {
-    console.log("My date of birth is " + dob + ".");
-}
