@@ -21,5 +21,3 @@ const myDob = () => {
 }
 
 const fifth = 13;
-
-const seventh = 7;
