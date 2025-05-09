@@ -21,3 +21,7 @@ const myDob = () => {
 }
 
 const fifth = 13;
+
+const aryan = () => {
+    console.log("My name is Aryan Khan and I am " + age + " years old. My date of birth is " + dob + ". My fifth number is " + fifth + ".");
+}
